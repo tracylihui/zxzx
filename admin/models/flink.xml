@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<form>
+	<input name="webname" type="notnull" msg="网站名称不能为空！" />
+	<input name="url" type="notnull" msg="网站URL不能为空！" />
+	<input name="url" type="url" msg="网站位置不是URL的格式！" />
+
+</form>	

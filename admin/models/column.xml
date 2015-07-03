@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<form>
+	<input name="title" type="notnull" msg="分类名称不能为空！" />
+	<input name="title" type="unique" action="add" msg="分类名称已经存在！" />
+
+</form>	

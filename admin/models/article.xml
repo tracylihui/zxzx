@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<form>
+	<input name="pid" type="notnull" msg="文章分类没有选择！" />
+	<input name="title" type="notnull" msg="文章标题不能为空！" />
+	<input name="keyword" type="notnull" msg="文章关键字不能为空！" />
+</form>	
